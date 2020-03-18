@@ -1,7 +1,8 @@
 # Escape
 Escape Room Game based on an experience at a mental hospital. 
 
-Raejae
+Rsandy2
+raejaesandy@gmail.com
 
 Yaoink
 
@@ -12,3 +13,5 @@ Rsoufi1
 Yugenero
 
 Fryedchicken
+
+Jaewon - jaewonjeung@gmail.com
