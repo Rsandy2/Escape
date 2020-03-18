@@ -1,7 +1,8 @@
 # Escape
 Escape Room Game based on an experience at a mental hospital. 
 
-Raejae
+Rsandy2
+raejaesandy@gmail.com
 
 Yaoink
 
